@@ -1,4 +1,4 @@
-//WAP to to swap two numbers using a third variable beginner
+//WAP to to swap two numbers using a third variable 
 #include <stdio.h>
 
 int main() {
@@ -20,3 +20,4 @@ int main() {
 
     return 0;
 }
+
