@@ -1,3 +1,4 @@
+//Define a struct with enum Gender and print person's gender.
 #include <stdio.h>
 #include <string.h>
 
@@ -25,4 +26,5 @@ int main() {
         printf("Female\n");
 
     return 0;
+
 }
